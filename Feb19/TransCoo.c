@@ -18,11 +18,11 @@ printf("Introduzca el valor c:\n");
 scanf("%f",&z);
 //esfericas
 r= (x*x)+(y*y)+(z*z);
-tta= arctan(y/x);
+tta= artan(y/x);
 agul= arcos(z/(sqrt((x*x)+(y*y)+(z*z)));
 //cilindricas
 r=(x*x)+(y*y);
-tta1= arctan(y/x);
+tta1= artan(y/x);
 z1= z
 
 exit (0);
