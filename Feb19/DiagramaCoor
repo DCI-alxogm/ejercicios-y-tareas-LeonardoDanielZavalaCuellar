@@ -2,9 +2,17 @@
 INICIO
 -Declarar x,y,z
 -Solicitar los valores de x,y,z al usuario
--declarar las coordenadas esfericas y cilindricas a obtener
+-declarar las coordenadas esfericas y cilindricas a obtener r,thetta y phi
 -asignar las operaciones a las coordenas esfericas y cilindricas
--imprimir el resultado en la pantalla
+-Esfericas
+r= sqrt((x*x)+(y*y)+(z*z));
+thetta= atan(y/x);
+phi= acos(z/r);
+-Cilindricas
+r=sqrt((x*x)+(y*y));
+thetta= atan(y/x);
+z=z;
+-imprimir los resultados en la pantalla en la pantalla
 SALIDA
 
 
