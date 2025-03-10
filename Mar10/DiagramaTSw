@@ -1,0 +1,28 @@
+Leonardo Daniel Zavala Cuellar 10 Marzo 2025 Uso del Switch XD como la nintendo
+
+INICIO
+-Declarar temperatura
+-Declarar TC,TK
+default
+-Solicitar al usuario que necesita tranformar grados Celsius o Kelvin 
+-Switch temperatura{
+-Case Celsius
+-Preguntar al usuaio los grados kelvin que desea transformar a celsius
+- Temperatura en celcius 
+TC=TK - 273.15
+-imprimir el resultado 
+break;
+case Kelvin 
+-Preguntar al usuaio los grados Celsius que desea transformar a Kelvin
+- Temperatura en Kelvin
+TK=TC + 273.15
+-imprimir el resultado 
+break;
+-default
+Solo calculo celsius o kelvin intente denuevo 
+goto default 
+}
+SALIDA
+
+
+
