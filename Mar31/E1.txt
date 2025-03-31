@@ -1,0 +1,4 @@
+Wenas tardes
+Ingrese un numero positivo
+Correcto 2 es positivo
+Gracias

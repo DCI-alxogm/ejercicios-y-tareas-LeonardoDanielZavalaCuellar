@@ -1,0 +1,54 @@
+Wenas tardes
+Asigne un valor final
+Asigne un valor de espaciado
+Ingrese un valor inicial positivo 
+El exponente cuadrado de su numero es 4.000000
+El exponente cuadrado de su numero es 16.000000
+El exponente cuadrado de su numero es 36.000000
+El exponente cuadrado de su numero es 64.000000
+El exponente cuadrado de su numero es 100.000000
+El exponente cuadrado de su numero es 144.000000
+El exponente cuadrado de su numero es 196.000000
+El exponente cuadrado de su numero es 256.000000
+El exponente cuadrado de su numero es 324.000000
+El exponente cuadrado de su numero es 400.000000
+El exponente cuadrado de su numero es 484.000000
+El exponente cuadrado de su numero es 576.000000
+El exponente cuadrado de su numero es 676.000000
+El exponente cuadrado de su numero es 784.000000
+El exponente cuadrado de su numero es 900.000000
+El exponente cuadrado de su numero es 1024.000000
+El exponente cuadrado de su numero es 1156.000000
+El exponente cuadrado de su numero es 1296.000000
+El exponente cuadrado de su numero es 1444.000000
+El exponente cuadrado de su numero es 1600.000000
+El exponente cuadrado de su numero es 1764.000000
+El exponente cuadrado de su numero es 1936.000000
+El exponente cuadrado de su numero es 2116.000000
+El exponente cuadrado de su numero es 2304.000000
+El exponente cuadrado de su numero es 2500.000000
+El exponente cuadrado de su numero es 2704.000000
+El exponente cuadrado de su numero es 2916.000000
+El exponente cuadrado de su numero es 3136.000000
+El exponente cuadrado de su numero es 3364.000000
+El exponente cuadrado de su numero es 3600.000000
+El exponente cuadrado de su numero es 3844.000000
+El exponente cuadrado de su numero es 4096.000000
+El exponente cuadrado de su numero es 4356.000000
+El exponente cuadrado de su numero es 4624.000000
+El exponente cuadrado de su numero es 4900.000000
+El exponente cuadrado de su numero es 5184.000000
+El exponente cuadrado de su numero es 5476.000000
+El exponente cuadrado de su numero es 5776.000000
+El exponente cuadrado de su numero es 6084.000000
+El exponente cuadrado de su numero es 6400.000000
+El exponente cuadrado de su numero es 6724.000000
+El exponente cuadrado de su numero es 7056.000000
+El exponente cuadrado de su numero es 7396.000000
+El exponente cuadrado de su numero es 7744.000000
+El exponente cuadrado de su numero es 8100.000000
+El exponente cuadrado de su numero es 8464.000000
+El exponente cuadrado de su numero es 8836.000000
+El exponente cuadrado de su numero es 9216.000000
+El exponente cuadrado de su numero es 9604.000000
+El exponente cuadrado de su numero es 10000.000000
