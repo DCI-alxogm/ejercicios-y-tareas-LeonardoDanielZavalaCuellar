@@ -1,0 +1,42 @@
+Leonardo Daniel Zavala Cuellar 2 Abril 2025 Diagrama
+
+-INICIO
+-Declarar variables a utilizar 
+-Declarar el incio y espaciado de los ciclos
+-Pedir a ususario asignar valores de inicio,fin y intervalo
+DO
+operaciones
+xq=sqrt(x);
+xe=exp(x);
+xl=log(x);
+xs=sin(x);
+xc=cos(x);
+-Imprimir resultado
+-agregar el incremento de cada ciclo
+WHILE
+-Verificar que el inicio sea menor o igual al final
+-FIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
